@@ -1,0 +1,15 @@
+/Users/misha/Desktop/Examples/Example007_Magic/bin/Debug/net8.0/Example007_Magic
+/Users/misha/Desktop/Examples/Example007_Magic/bin/Debug/net8.0/Example007_Magic.deps.json
+/Users/misha/Desktop/Examples/Example007_Magic/bin/Debug/net8.0/Example007_Magic.runtimeconfig.json
+/Users/misha/Desktop/Examples/Example007_Magic/bin/Debug/net8.0/Example007_Magic.dll
+/Users/misha/Desktop/Examples/Example007_Magic/bin/Debug/net8.0/Example007_Magic.pdb
+/Users/misha/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misha/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.AssemblyInfoInputs.cache
+/Users/misha/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.AssemblyInfo.cs
+/Users/misha/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.csproj.CoreCompileInputs.cache
+/Users/misha/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.sourcelink.json
+/Users/misha/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.dll
+/Users/misha/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/refint/Example007_Magic.dll
+/Users/misha/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.pdb
+/Users/misha/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/Example007_Magic.genruntimeconfig.cache
+/Users/misha/Desktop/Examples/Example007_Magic/obj/Debug/net8.0/ref/Example007_Magic.dll
