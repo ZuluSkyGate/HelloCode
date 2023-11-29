@@ -1,0 +1,15 @@
+/Users/misha/Desktop/Examples/Example002_HelloUser/bin/Debug/net8.0/Example002_HelloUser
+/Users/misha/Desktop/Examples/Example002_HelloUser/bin/Debug/net8.0/Example002_HelloUser.deps.json
+/Users/misha/Desktop/Examples/Example002_HelloUser/bin/Debug/net8.0/Example002_HelloUser.runtimeconfig.json
+/Users/misha/Desktop/Examples/Example002_HelloUser/bin/Debug/net8.0/Example002_HelloUser.dll
+/Users/misha/Desktop/Examples/Example002_HelloUser/bin/Debug/net8.0/Example002_HelloUser.pdb
+/Users/misha/Desktop/Examples/Example002_HelloUser/obj/Debug/net8.0/Example002_HelloUser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misha/Desktop/Examples/Example002_HelloUser/obj/Debug/net8.0/Example002_HelloUser.AssemblyInfoInputs.cache
+/Users/misha/Desktop/Examples/Example002_HelloUser/obj/Debug/net8.0/Example002_HelloUser.AssemblyInfo.cs
+/Users/misha/Desktop/Examples/Example002_HelloUser/obj/Debug/net8.0/Example002_HelloUser.csproj.CoreCompileInputs.cache
+/Users/misha/Desktop/Examples/Example002_HelloUser/obj/Debug/net8.0/Example002_HelloUser.sourcelink.json
+/Users/misha/Desktop/Examples/Example002_HelloUser/obj/Debug/net8.0/Example002_HelloUser.dll
+/Users/misha/Desktop/Examples/Example002_HelloUser/obj/Debug/net8.0/refint/Example002_HelloUser.dll
+/Users/misha/Desktop/Examples/Example002_HelloUser/obj/Debug/net8.0/Example002_HelloUser.pdb
+/Users/misha/Desktop/Examples/Example002_HelloUser/obj/Debug/net8.0/Example002_HelloUser.genruntimeconfig.cache
+/Users/misha/Desktop/Examples/Example002_HelloUser/obj/Debug/net8.0/ref/Example002_HelloUser.dll
