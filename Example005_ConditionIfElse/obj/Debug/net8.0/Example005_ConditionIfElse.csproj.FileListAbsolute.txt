@@ -1,0 +1,15 @@
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/bin/Debug/net8.0/Example005_ConditionIfElse
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/bin/Debug/net8.0/Example005_ConditionIfElse.deps.json
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/bin/Debug/net8.0/Example005_ConditionIfElse.runtimeconfig.json
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/bin/Debug/net8.0/Example005_ConditionIfElse.dll
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/bin/Debug/net8.0/Example005_ConditionIfElse.pdb
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/obj/Debug/net8.0/Example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/obj/Debug/net8.0/Example005_ConditionIfElse.AssemblyInfoInputs.cache
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/obj/Debug/net8.0/Example005_ConditionIfElse.AssemblyInfo.cs
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/obj/Debug/net8.0/Example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/obj/Debug/net8.0/Example005_ConditionIfElse.sourcelink.json
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/obj/Debug/net8.0/Example005_ConditionIfElse.dll
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/obj/Debug/net8.0/refint/Example005_ConditionIfElse.dll
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/obj/Debug/net8.0/Example005_ConditionIfElse.pdb
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/obj/Debug/net8.0/Example005_ConditionIfElse.genruntimeconfig.cache
+/Users/misha/Desktop/Examples/Example005_ConditionIfElse/obj/Debug/net8.0/ref/Example005_ConditionIfElse.dll
