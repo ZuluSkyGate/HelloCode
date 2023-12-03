@@ -1,0 +1,5 @@
+/Users/misha/Desktop/Examples/Seminar2_1/obj/Debug/net8.0/Seminar2_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misha/Desktop/Examples/Seminar2_1/obj/Debug/net8.0/Seminar2_1.AssemblyInfoInputs.cache
+/Users/misha/Desktop/Examples/Seminar2_1/obj/Debug/net8.0/Seminar2_1.AssemblyInfo.cs
+/Users/misha/Desktop/Examples/Seminar2_1/obj/Debug/net8.0/Seminar2_1.csproj.CoreCompileInputs.cache
+/Users/misha/Desktop/Examples/Seminar2_1/obj/Debug/net8.0/Seminar2_1.sourcelink.json
