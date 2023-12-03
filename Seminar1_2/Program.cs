@@ -31,5 +31,5 @@ else if (num_week_day == 7)
 }
 else
 {
-    Console.WriteLine("Uncorrect number");
+    Console.WriteLine("Uncorrect number")
 }
