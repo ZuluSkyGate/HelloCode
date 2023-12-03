@@ -1,0 +1,15 @@
+/Users/misha/Desktop/Examples/Example010_MethodArray/bin/Debug/net8.0/Example010_MethodArray
+/Users/misha/Desktop/Examples/Example010_MethodArray/bin/Debug/net8.0/Example010_MethodArray.deps.json
+/Users/misha/Desktop/Examples/Example010_MethodArray/bin/Debug/net8.0/Example010_MethodArray.runtimeconfig.json
+/Users/misha/Desktop/Examples/Example010_MethodArray/bin/Debug/net8.0/Example010_MethodArray.dll
+/Users/misha/Desktop/Examples/Example010_MethodArray/bin/Debug/net8.0/Example010_MethodArray.pdb
+/Users/misha/Desktop/Examples/Example010_MethodArray/obj/Debug/net8.0/Example010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misha/Desktop/Examples/Example010_MethodArray/obj/Debug/net8.0/Example010_MethodArray.AssemblyInfoInputs.cache
+/Users/misha/Desktop/Examples/Example010_MethodArray/obj/Debug/net8.0/Example010_MethodArray.AssemblyInfo.cs
+/Users/misha/Desktop/Examples/Example010_MethodArray/obj/Debug/net8.0/Example010_MethodArray.csproj.CoreCompileInputs.cache
+/Users/misha/Desktop/Examples/Example010_MethodArray/obj/Debug/net8.0/Example010_MethodArray.sourcelink.json
+/Users/misha/Desktop/Examples/Example010_MethodArray/obj/Debug/net8.0/Example010_MethodArray.dll
+/Users/misha/Desktop/Examples/Example010_MethodArray/obj/Debug/net8.0/refint/Example010_MethodArray.dll
+/Users/misha/Desktop/Examples/Example010_MethodArray/obj/Debug/net8.0/Example010_MethodArray.pdb
+/Users/misha/Desktop/Examples/Example010_MethodArray/obj/Debug/net8.0/Example010_MethodArray.genruntimeconfig.cache
+/Users/misha/Desktop/Examples/Example010_MethodArray/obj/Debug/net8.0/ref/Example010_MethodArray.dll
