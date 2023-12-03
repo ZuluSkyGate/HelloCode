@@ -1,0 +1,15 @@
+/Users/misha/Desktop/Examples/Seminar1_2/bin/Debug/net8.0/Seminar1_2
+/Users/misha/Desktop/Examples/Seminar1_2/bin/Debug/net8.0/Seminar1_2.deps.json
+/Users/misha/Desktop/Examples/Seminar1_2/bin/Debug/net8.0/Seminar1_2.runtimeconfig.json
+/Users/misha/Desktop/Examples/Seminar1_2/bin/Debug/net8.0/Seminar1_2.dll
+/Users/misha/Desktop/Examples/Seminar1_2/bin/Debug/net8.0/Seminar1_2.pdb
+/Users/misha/Desktop/Examples/Seminar1_2/obj/Debug/net8.0/Seminar1_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misha/Desktop/Examples/Seminar1_2/obj/Debug/net8.0/Seminar1_2.AssemblyInfoInputs.cache
+/Users/misha/Desktop/Examples/Seminar1_2/obj/Debug/net8.0/Seminar1_2.AssemblyInfo.cs
+/Users/misha/Desktop/Examples/Seminar1_2/obj/Debug/net8.0/Seminar1_2.csproj.CoreCompileInputs.cache
+/Users/misha/Desktop/Examples/Seminar1_2/obj/Debug/net8.0/Seminar1_2.sourcelink.json
+/Users/misha/Desktop/Examples/Seminar1_2/obj/Debug/net8.0/Seminar1_2.dll
+/Users/misha/Desktop/Examples/Seminar1_2/obj/Debug/net8.0/refint/Seminar1_2.dll
+/Users/misha/Desktop/Examples/Seminar1_2/obj/Debug/net8.0/Seminar1_2.pdb
+/Users/misha/Desktop/Examples/Seminar1_2/obj/Debug/net8.0/Seminar1_2.genruntimeconfig.cache
+/Users/misha/Desktop/Examples/Seminar1_2/obj/Debug/net8.0/ref/Seminar1_2.dll
