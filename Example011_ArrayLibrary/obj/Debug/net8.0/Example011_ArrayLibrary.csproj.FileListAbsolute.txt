@@ -1,0 +1,5 @@
+/Users/misha/Desktop/Examples/Example011_ArrayLibrary/obj/Debug/net8.0/Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misha/Desktop/Examples/Example011_ArrayLibrary/obj/Debug/net8.0/Example011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/misha/Desktop/Examples/Example011_ArrayLibrary/obj/Debug/net8.0/Example011_ArrayLibrary.AssemblyInfo.cs
+/Users/misha/Desktop/Examples/Example011_ArrayLibrary/obj/Debug/net8.0/Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/misha/Desktop/Examples/Example011_ArrayLibrary/obj/Debug/net8.0/Example011_ArrayLibrary.sourcelink.json
