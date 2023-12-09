@@ -1,0 +1,15 @@
+/Users/misha/Desktop/Examples/Task1_3/obj/Debug/net8.0/Task1_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misha/Desktop/Examples/Task1_3/obj/Debug/net8.0/Task1_3.AssemblyInfoInputs.cache
+/Users/misha/Desktop/Examples/Task1_3/obj/Debug/net8.0/Task1_3.AssemblyInfo.cs
+/Users/misha/Desktop/Examples/Task1_3/obj/Debug/net8.0/Task1_3.csproj.CoreCompileInputs.cache
+/Users/misha/Desktop/Examples/Task1_3/obj/Debug/net8.0/Task1_3.sourcelink.json
+/Users/misha/Desktop/Examples/Task1_3/bin/Debug/net8.0/Task1_3
+/Users/misha/Desktop/Examples/Task1_3/bin/Debug/net8.0/Task1_3.deps.json
+/Users/misha/Desktop/Examples/Task1_3/bin/Debug/net8.0/Task1_3.runtimeconfig.json
+/Users/misha/Desktop/Examples/Task1_3/bin/Debug/net8.0/Task1_3.dll
+/Users/misha/Desktop/Examples/Task1_3/bin/Debug/net8.0/Task1_3.pdb
+/Users/misha/Desktop/Examples/Task1_3/obj/Debug/net8.0/Task1_3.dll
+/Users/misha/Desktop/Examples/Task1_3/obj/Debug/net8.0/refint/Task1_3.dll
+/Users/misha/Desktop/Examples/Task1_3/obj/Debug/net8.0/Task1_3.pdb
+/Users/misha/Desktop/Examples/Task1_3/obj/Debug/net8.0/Task1_3.genruntimeconfig.cache
+/Users/misha/Desktop/Examples/Task1_3/obj/Debug/net8.0/ref/Task1_3.dll
