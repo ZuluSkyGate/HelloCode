@@ -1,31 +1,39 @@
 ﻿using System;
 
-public class Answer
-{
+public class Answer {
     static void CompareNumbers(int firstNumber, int secondNumber)
     {
+        // Введите свое решение ниже
         if (firstNumber > secondNumber)
         {
-            Console.WriteLine($"первое число '{firstNumber}' больше чем второе число '{secondNumber}'");
+            Console.WriteLine($"Первое число `{firstNumber}` больше чем второе число `{secondNumber}`");
         }
         else if (firstNumber < secondNumber)
         {
-            Console.WriteLine($"первое число '{firstNumber}' меньше чем второе число '{secondNumber}'");
+            Console.WriteLine($"Первое число `{firstNumber}` меньше чем второе число `{secondNumber}`");
         }
         else
         {
-            Console.WriteLine($"первое число '{firstNumber}' равно второму числу '{secondNumber}'");
+            Console.WriteLine($"Введенные числа равны `{firstNumber}`");
         }
+
     }
 
-    public static void Main()
-    {
-        Console.Write("Введите первое число: ");
-        int num1 = int.Parse(Console.ReadLine());
 
-        Console.Write("Введите второе число: ");
-        int num2 = int.Parse(Console.ReadLine());
+  // Не удаляйте и не меняйте метод Main! 
+    static public void Main(string[] args) {
+        int firstNumber, secondNumber;
 
-        CompareNumbers(num1, num2);
+        if (args.Length >= 2) {
+            firstNumber = int.Parse(args[0]);
+            secondNumber = int.Parse(args[1]);
+        } else {
+           // Здесь вы можете поменять значения для отправки кода на Выполнение
+            firstNumber = 5;
+            secondNumber = 6;
+        }
+
+        // Не удаляйте строки ниже
+        CompareNumbers(firstNumber, secondNumber);
     }
 }
