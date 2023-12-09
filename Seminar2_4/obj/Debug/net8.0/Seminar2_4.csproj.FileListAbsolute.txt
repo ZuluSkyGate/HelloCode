@@ -3,3 +3,13 @@
 /Users/misha/Desktop/Examples/Seminar2_4/obj/Debug/net8.0/Seminar2_4.AssemblyInfo.cs
 /Users/misha/Desktop/Examples/Seminar2_4/obj/Debug/net8.0/Seminar2_4.csproj.CoreCompileInputs.cache
 /Users/misha/Desktop/Examples/Seminar2_4/obj/Debug/net8.0/Seminar2_4.sourcelink.json
+/Users/misha/Desktop/Examples/Seminar2_4/bin/Debug/net8.0/Seminar2_4
+/Users/misha/Desktop/Examples/Seminar2_4/bin/Debug/net8.0/Seminar2_4.deps.json
+/Users/misha/Desktop/Examples/Seminar2_4/bin/Debug/net8.0/Seminar2_4.runtimeconfig.json
+/Users/misha/Desktop/Examples/Seminar2_4/bin/Debug/net8.0/Seminar2_4.dll
+/Users/misha/Desktop/Examples/Seminar2_4/bin/Debug/net8.0/Seminar2_4.pdb
+/Users/misha/Desktop/Examples/Seminar2_4/obj/Debug/net8.0/Seminar2_4.dll
+/Users/misha/Desktop/Examples/Seminar2_4/obj/Debug/net8.0/refint/Seminar2_4.dll
+/Users/misha/Desktop/Examples/Seminar2_4/obj/Debug/net8.0/Seminar2_4.pdb
+/Users/misha/Desktop/Examples/Seminar2_4/obj/Debug/net8.0/Seminar2_4.genruntimeconfig.cache
+/Users/misha/Desktop/Examples/Seminar2_4/obj/Debug/net8.0/ref/Seminar2_4.dll
