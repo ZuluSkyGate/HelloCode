@@ -35,7 +35,7 @@ int[,] massive = FillArray(row, col);
 Console.Clear();
 System.Console.WriteLine("Массив:");
 PrintArray(massive);
-System.Console.Write("Введите через пробел координаты числа из массива (строка столбец): ");
+System.Console.Write("Введите через пробел координаты чисел из массива (строка столбец): ");
 string indexes = System.Console.ReadLine();
 int rowElement = Convert.ToInt32(indexes.Split()[0]);
 int colElement = Convert.ToInt32(indexes.Split()[1]);
