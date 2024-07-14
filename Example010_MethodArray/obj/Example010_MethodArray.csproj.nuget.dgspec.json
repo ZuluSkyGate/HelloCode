@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/misha/Desktop/Examples/Example010_MethodArray/Example010_MethodArray.csproj": {}
+    "/Users/mikhail/Documents/GitHub/HelloCode/Example010_MethodArray/Example010_MethodArray.csproj": {}
   },
   "projects": {
-    "/Users/misha/Desktop/Examples/Example010_MethodArray/Example010_MethodArray.csproj": {
+    "/Users/mikhail/Documents/GitHub/HelloCode/Example010_MethodArray/Example010_MethodArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/misha/Desktop/Examples/Example010_MethodArray/Example010_MethodArray.csproj",
+        "projectUniqueName": "/Users/mikhail/Documents/GitHub/HelloCode/Example010_MethodArray/Example010_MethodArray.csproj",
         "projectName": "Example010_MethodArray",
-        "projectPath": "/Users/misha/Desktop/Examples/Example010_MethodArray/Example010_MethodArray.csproj",
-        "packagesPath": "/Users/misha/.nuget/packages/",
-        "outputPath": "/Users/misha/Desktop/Examples/Example010_MethodArray/obj/",
+        "projectPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example010_MethodArray/Example010_MethodArray.csproj",
+        "packagesPath": "/Users/mikhail/.nuget/packages/",
+        "outputPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example010_MethodArray/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/misha/.nuget/NuGet/NuGet.Config"
+          "/Users/mikhail/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

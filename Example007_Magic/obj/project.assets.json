@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/misha/.nuget/packages/": {}
+    "/Users/mikhail/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/misha/Desktop/Examples/Example007_Magic/Example007_Magic.csproj",
+      "projectUniqueName": "/Users/mikhail/Documents/GitHub/HelloCode/Example007_Magic/Example007_Magic.csproj",
       "projectName": "Example007_Magic",
-      "projectPath": "/Users/misha/Desktop/Examples/Example007_Magic/Example007_Magic.csproj",
-      "packagesPath": "/Users/misha/.nuget/packages/",
-      "outputPath": "/Users/misha/Desktop/Examples/Example007_Magic/obj/",
+      "projectPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example007_Magic/Example007_Magic.csproj",
+      "packagesPath": "/Users/mikhail/.nuget/packages/",
+      "outputPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example007_Magic/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/misha/.nuget/NuGet/NuGet.Config"
+        "/Users/mikhail/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

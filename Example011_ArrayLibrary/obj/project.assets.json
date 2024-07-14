@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/misha/.nuget/packages/": {}
+    "/Users/mikhail/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/misha/Desktop/Examples/Example011_ArrayLibrary/Example011_ArrayLibrary.csproj",
+      "projectUniqueName": "/Users/mikhail/Documents/GitHub/HelloCode/Example011_ArrayLibrary/Example011_ArrayLibrary.csproj",
       "projectName": "Example011_ArrayLibrary",
-      "projectPath": "/Users/misha/Desktop/Examples/Example011_ArrayLibrary/Example011_ArrayLibrary.csproj",
-      "packagesPath": "/Users/misha/.nuget/packages/",
-      "outputPath": "/Users/misha/Desktop/Examples/Example011_ArrayLibrary/obj/",
+      "projectPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example011_ArrayLibrary/Example011_ArrayLibrary.csproj",
+      "packagesPath": "/Users/mikhail/.nuget/packages/",
+      "outputPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example011_ArrayLibrary/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/misha/.nuget/NuGet/NuGet.Config"
+        "/Users/mikhail/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

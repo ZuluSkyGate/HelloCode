@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8z/wwTOC+d2+OSRAfWaJfZ2hXtBKLTY+VSCw4ZOYF3A6q+zTV3X4J7zgXDd8HQxzO2MSEfM8quS0bGrY0DHUJg==",
+  "dgSpecHash": "dDnX03jOz6W4JiQ8QgbN5PUc0UfQA3mDItFhPcBnhsqXc8bxjr/lU2obHsCiuEF9JjR1T7SpaXbFuYOADif7nw==",
   "success": true,
-  "projectFilePath": "/Users/misha/Desktop/Examples/Example002_HelloUser/Example002_HelloUser.csproj",
+  "projectFilePath": "/Users/mikhail/Documents/GitHub/HelloCode/Example002_HelloUser/Example002_HelloUser.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
