@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/misha/Desktop/Examples/Example005_ConditionIfElse/Example005_ConditionIfElse.csproj": {}
+    "/Users/mikhail/Documents/GitHub/HelloCode/Example005_ConditionIfElse/Example005_ConditionIfElse.csproj": {}
   },
   "projects": {
-    "/Users/misha/Desktop/Examples/Example005_ConditionIfElse/Example005_ConditionIfElse.csproj": {
+    "/Users/mikhail/Documents/GitHub/HelloCode/Example005_ConditionIfElse/Example005_ConditionIfElse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/misha/Desktop/Examples/Example005_ConditionIfElse/Example005_ConditionIfElse.csproj",
+        "projectUniqueName": "/Users/mikhail/Documents/GitHub/HelloCode/Example005_ConditionIfElse/Example005_ConditionIfElse.csproj",
         "projectName": "Example005_ConditionIfElse",
-        "projectPath": "/Users/misha/Desktop/Examples/Example005_ConditionIfElse/Example005_ConditionIfElse.csproj",
-        "packagesPath": "/Users/misha/.nuget/packages/",
-        "outputPath": "/Users/misha/Desktop/Examples/Example005_ConditionIfElse/obj/",
+        "projectPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example005_ConditionIfElse/Example005_ConditionIfElse.csproj",
+        "packagesPath": "/Users/mikhail/.nuget/packages/",
+        "outputPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example005_ConditionIfElse/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/misha/.nuget/NuGet/NuGet.Config"
+          "/Users/mikhail/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

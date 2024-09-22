@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/misha/Desktop/Examples/Example003_Sum/Example003_Sum.csproj": {}
+    "/Users/mikhail/Documents/GitHub/HelloCode/Example003_Sum/Example003_Sum.csproj": {}
   },
   "projects": {
-    "/Users/misha/Desktop/Examples/Example003_Sum/Example003_Sum.csproj": {
+    "/Users/mikhail/Documents/GitHub/HelloCode/Example003_Sum/Example003_Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/misha/Desktop/Examples/Example003_Sum/Example003_Sum.csproj",
+        "projectUniqueName": "/Users/mikhail/Documents/GitHub/HelloCode/Example003_Sum/Example003_Sum.csproj",
         "projectName": "Example003_Sum",
-        "projectPath": "/Users/misha/Desktop/Examples/Example003_Sum/Example003_Sum.csproj",
-        "packagesPath": "/Users/misha/.nuget/packages/",
-        "outputPath": "/Users/misha/Desktop/Examples/Example003_Sum/obj/",
+        "projectPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example003_Sum/Example003_Sum.csproj",
+        "packagesPath": "/Users/mikhail/.nuget/packages/",
+        "outputPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example003_Sum/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/misha/.nuget/NuGet/NuGet.Config"
+          "/Users/mikhail/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

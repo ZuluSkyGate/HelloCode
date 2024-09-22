@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/misha/Desktop/Examples/Example006_Base/Example006_Base.csproj": {}
+    "/Users/mikhail/Documents/GitHub/HelloCode/Example006_Base/Example006_Base.csproj": {}
   },
   "projects": {
-    "/Users/misha/Desktop/Examples/Example006_Base/Example006_Base.csproj": {
+    "/Users/mikhail/Documents/GitHub/HelloCode/Example006_Base/Example006_Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/misha/Desktop/Examples/Example006_Base/Example006_Base.csproj",
+        "projectUniqueName": "/Users/mikhail/Documents/GitHub/HelloCode/Example006_Base/Example006_Base.csproj",
         "projectName": "Example006_Base",
-        "projectPath": "/Users/misha/Desktop/Examples/Example006_Base/Example006_Base.csproj",
-        "packagesPath": "/Users/misha/.nuget/packages/",
-        "outputPath": "/Users/misha/Desktop/Examples/Example006_Base/obj/",
+        "projectPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example006_Base/Example006_Base.csproj",
+        "packagesPath": "/Users/mikhail/.nuget/packages/",
+        "outputPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example006_Base/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/misha/.nuget/NuGet/NuGet.Config"
+          "/Users/mikhail/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

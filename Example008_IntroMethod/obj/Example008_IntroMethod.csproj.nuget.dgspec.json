@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/misha/Desktop/Examples/Example008_IntroMethod/Example008_IntroMethod.csproj": {}
+    "/Users/mikhail/Documents/GitHub/HelloCode/Example008_IntroMethod/Example008_IntroMethod.csproj": {}
   },
   "projects": {
-    "/Users/misha/Desktop/Examples/Example008_IntroMethod/Example008_IntroMethod.csproj": {
+    "/Users/mikhail/Documents/GitHub/HelloCode/Example008_IntroMethod/Example008_IntroMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/misha/Desktop/Examples/Example008_IntroMethod/Example008_IntroMethod.csproj",
+        "projectUniqueName": "/Users/mikhail/Documents/GitHub/HelloCode/Example008_IntroMethod/Example008_IntroMethod.csproj",
         "projectName": "Example008_IntroMethod",
-        "projectPath": "/Users/misha/Desktop/Examples/Example008_IntroMethod/Example008_IntroMethod.csproj",
-        "packagesPath": "/Users/misha/.nuget/packages/",
-        "outputPath": "/Users/misha/Desktop/Examples/Example008_IntroMethod/obj/",
+        "projectPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example008_IntroMethod/Example008_IntroMethod.csproj",
+        "packagesPath": "/Users/mikhail/.nuget/packages/",
+        "outputPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example008_IntroMethod/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/misha/.nuget/NuGet/NuGet.Config"
+          "/Users/mikhail/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

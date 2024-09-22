@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/misha/Desktop/Examples/Example009_IntroArray/Example009_IntroArray.csproj": {}
+    "/Users/mikhail/Documents/GitHub/HelloCode/Example009_IntroArray/Example009_IntroArray.csproj": {}
   },
   "projects": {
-    "/Users/misha/Desktop/Examples/Example009_IntroArray/Example009_IntroArray.csproj": {
+    "/Users/mikhail/Documents/GitHub/HelloCode/Example009_IntroArray/Example009_IntroArray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/misha/Desktop/Examples/Example009_IntroArray/Example009_IntroArray.csproj",
+        "projectUniqueName": "/Users/mikhail/Documents/GitHub/HelloCode/Example009_IntroArray/Example009_IntroArray.csproj",
         "projectName": "Example009_IntroArray",
-        "projectPath": "/Users/misha/Desktop/Examples/Example009_IntroArray/Example009_IntroArray.csproj",
-        "packagesPath": "/Users/misha/.nuget/packages/",
-        "outputPath": "/Users/misha/Desktop/Examples/Example009_IntroArray/obj/",
+        "projectPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example009_IntroArray/Example009_IntroArray.csproj",
+        "packagesPath": "/Users/mikhail/.nuget/packages/",
+        "outputPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example009_IntroArray/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/misha/.nuget/NuGet/NuGet.Config"
+          "/Users/mikhail/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

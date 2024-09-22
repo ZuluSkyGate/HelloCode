@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/misha/Desktop/Examples/Seminar1_1/Seminar1_1.csproj": {}
+    "/Users/mikhail/Documents/GitHub/HelloCode/Seminar1_1/Seminar1_1.csproj": {}
   },
   "projects": {
-    "/Users/misha/Desktop/Examples/Seminar1_1/Seminar1_1.csproj": {
+    "/Users/mikhail/Documents/GitHub/HelloCode/Seminar1_1/Seminar1_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/misha/Desktop/Examples/Seminar1_1/Seminar1_1.csproj",
+        "projectUniqueName": "/Users/mikhail/Documents/GitHub/HelloCode/Seminar1_1/Seminar1_1.csproj",
         "projectName": "Seminar1_1",
-        "projectPath": "/Users/misha/Desktop/Examples/Seminar1_1/Seminar1_1.csproj",
-        "packagesPath": "/Users/misha/.nuget/packages/",
-        "outputPath": "/Users/misha/Desktop/Examples/Seminar1_1/obj/",
+        "projectPath": "/Users/mikhail/Documents/GitHub/HelloCode/Seminar1_1/Seminar1_1.csproj",
+        "packagesPath": "/Users/mikhail/.nuget/packages/",
+        "outputPath": "/Users/mikhail/Documents/GitHub/HelloCode/Seminar1_1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/misha/.nuget/NuGet/NuGet.Config"
+          "/Users/mikhail/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

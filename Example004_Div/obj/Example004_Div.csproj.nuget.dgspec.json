@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/misha/Desktop/Examples/Example004_Div/Example004_Div.csproj": {}
+    "/Users/mikhail/Documents/GitHub/HelloCode/Example004_Div/Example004_Div.csproj": {}
   },
   "projects": {
-    "/Users/misha/Desktop/Examples/Example004_Div/Example004_Div.csproj": {
+    "/Users/mikhail/Documents/GitHub/HelloCode/Example004_Div/Example004_Div.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/misha/Desktop/Examples/Example004_Div/Example004_Div.csproj",
+        "projectUniqueName": "/Users/mikhail/Documents/GitHub/HelloCode/Example004_Div/Example004_Div.csproj",
         "projectName": "Example004_Div",
-        "projectPath": "/Users/misha/Desktop/Examples/Example004_Div/Example004_Div.csproj",
-        "packagesPath": "/Users/misha/.nuget/packages/",
-        "outputPath": "/Users/misha/Desktop/Examples/Example004_Div/obj/",
+        "projectPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example004_Div/Example004_Div.csproj",
+        "packagesPath": "/Users/mikhail/.nuget/packages/",
+        "outputPath": "/Users/mikhail/Documents/GitHub/HelloCode/Example004_Div/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/misha/.nuget/NuGet/NuGet.Config"
+          "/Users/mikhail/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"

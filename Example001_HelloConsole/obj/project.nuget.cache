@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qAMjFnk6u3CMv6ng6y2l3dFEkh/qAr46yZoxQkcrVSfDcP+QyPngv8R65slHIIck7UzGN6C+ryEc7gYvdswIYg==",
+  "dgSpecHash": "jfcVigKWRm9/of5N3IpwqIitspq6Xp9yLM8sve93QGJxS7TG1AIZmjUdgu4EmJjB87eOAVgYCPYQQclKY2IlBQ==",
   "success": true,
-  "projectFilePath": "/Users/misha/Desktop/Examples/Example001_HelloConsole/Example001_HelloConsole.csproj",
+  "projectFilePath": "/Users/mikhail/Documents/GitHub/HelloCode/Example001_HelloConsole/Example001_HelloConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
